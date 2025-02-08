@@ -8,7 +8,7 @@ function changeGift() {
         3: { emoji: "🍫", text: "Sweet like chocolate, our bond stays strong!" },  
         4: { emoji: "✨", text: "No words needed, you understand me!" },
         5: { emoji: "💥", text: "Forever grateful for a friend like you!" },
-        6: { emoji: "🦋", text: "From your Titli" }
+        6: { emoji: "🦋", text: "From your friend Titli" }
     };
 
     const days = Object.keys(gifts);
